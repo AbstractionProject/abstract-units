@@ -1,4 +1,4 @@
 abstract-units
 ==============
 
-Give an inch, take 0.000000000000170111428 light years. 
+Give an inch, take 1.70111428 × 10-13 light years. 
